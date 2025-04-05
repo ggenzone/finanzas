@@ -62,12 +62,6 @@ Este sistema es conocido como el **patrón oro-dólar**. A diferencia del antigu
 
 ---
 
-¡Sí, totalmente válido! Aunque el **GATT (Acuerdo General sobre Aranceles Aduaneros y Comercio)** no se firmó directamente en Bretton Woods, fue una consecuencia lógica del mismo espíritu de cooperación económica global que surgió de esa conferencia.
-
-Te dejo una sección lista para sumar al final del post (antes o después de "Reflexión final"):
-
----
-
 ## El GATT
 
 Aunque no se creó formalmente durante la conferencia de Bretton Woods, el **Acuerdo General sobre Aranceles Aduaneros y Comercio (GATT)**, firmado en 1947, fue una extensión natural del orden económico internacional que allí se planteó.
