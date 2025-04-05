@@ -1,43 +1,9 @@
-# Chirpy Starter
+**Sobre este blog**
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Este blog es un espacio personal donde recopilo y organizo información relacionada con finanzas, economía y temas afines. Su propósito principal es funcionar como un cuaderno de notas digital, donde resumo y estructuro lo que voy aprendiendo de distintas fuentes, tanto tradicionales como digitales.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+No considero el contenido como propio, ya que muchas de las ideas y conceptos aquí presentados provienen de libros, artículos, cursos, videos, y otras publicaciones. En algunos casos también utilizo herramientas de inteligencia artificial para ayudar a sintetizar, resumir o reformular los conceptos que estoy tratando de comprender.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Este sitio no tiene fines comerciales ni académicos, simplemente me ayuda a ordenar mi propio proceso de aprendizaje, y tal vez pueda ser útil a otras personas interesadas en estos temas.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
-
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
-
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
-
-## Usage
-
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
-
-## Contributing
-
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+El blog está construido con [Jekyll](https://jekyllrb.com/) y utiliza el excelente template [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) desarrollado por [Cotes Chung](https://github.com/cotes2020).
