@@ -30,9 +30,13 @@ Este sitio no pretende ser una fuente académica ni experta, sino más bien una 
 - **Los Estados Unidos desde 1816 hasta la Guerra Civil** - Isaac Asimov - [[Link]](https://www.goodreads.com/book/show/17800916-los-estados-unidos-desde-1816-hasta-el-final-de-la-guerra-civil){:target="_blank"}
 - **Los Estados Unidos desde la Guerra Civil hasta la Primera Guerra Mundial** - Isaac Asimov - [[Link]](https://www.goodreads.com/book/show/22319585-los-estados-unidos-desde-el-final-de-la-guerra-civil-hasta-la-primera-gu){:target="_blank"}
 
-## Economia
-
+## Finanzas
+- **Lo que aprendí al perder un millón de dólares** - Jim Paul - [[Link]](https://www.goodreads.com/book/show/226344207-lo-que-aprend-al-perder-un-mill-n-de-d-lares){:target="_blank"}
 
 ## Geopolitica
+- **El mundo está en venta** - Javier Blas, Jack Farchy - [[Link]](https://www.goodreads.com/book/show/61163197-el-mundo-est-en-venta){:target="_blank"}
+- **La guerra de los chips** - Chris Miller - [[Link]](https://www.goodreads.com/book/show/177330004-la-guerra-de-los-chips){:target="_blank"}
 - **El porvenir del Viejo Mundo** - Óscar Vara - [[Link]](https://www.goodreads.com/book/show/194084508-el-porvenir-del-viejo-mundo){:target="_blank"}
+- **Prisioneros de la geografía** - Tim Marshall - [[Link]](https://www.goodreads.com/book/show/34532870-prisioneros-de-la-geograf-a){:target="_blank"}
+- **El poder de la geografía** - Tim Marshall - [[Link]](https://www.goodreads.com/book/show/220109170-el-poder-de-la-geograf-a){:target="_blank"}
 - **El laberinto de los extraviados** - Amin Maalouf - [[Link]](https://www.alianzaeditorial.es/libro/alianza-literaturas/el-laberinto-de-los-extraviados-amin-maalouf-9788411486910/){:target="_blank"}
