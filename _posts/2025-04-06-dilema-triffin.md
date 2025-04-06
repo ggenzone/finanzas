@@ -6,6 +6,11 @@ categories: [economía, historia monetaria]
 tags: [triffin, bretton woods, patrón oro, sistema monetario, nixon shock]
 ---
 
+![Gold and the Dollar Crisis](assets/img/posts/triffin-header.png)
+*Imagen referencial Gold and the Dollar Crisis*
+
+---
+
 ## Introducción
 
 A mediados del siglo XX, el sistema de Bretton Woods buscaba ofrecer estabilidad monetaria global a través de un modelo mixto: tipos de cambio fijos respecto al dólar, y respaldo del dólar en oro. Sin embargo, este sistema contenía una contradicción estructural que, décadas más tarde, contribuiría a su colapso: el **dilema de Triffin**.
