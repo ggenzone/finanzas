@@ -2,7 +2,7 @@
 layout: post
 title:  "Los Acuerdos de Bretton Woods"
 date:   2025-04-05 10:00:00 +0000
-categories: [economía, historia]
+categories: [economía, historia monetaria]
 tags: [bretton woods, fmi, banco mundial, patrón oro, sistema monetario]
 ---
 
