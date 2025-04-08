@@ -4,11 +4,9 @@ title:  "El Dilema de Triffin"
 date:   2025-04-06 00:30:00 +0000
 categories: [economía, historia monetaria]
 tags: [triffin, bretton woods, patrón oro, sistema monetario, nixon shock]
----
-
-![Gold and the Dollar Crisis](assets/img/posts/triffin-header.png)
-*Imagen referencial Gold and the Dollar Crisis*
-
+image:
+  path: assets/img/posts/triffin-header.png
+  alt: Gold and the Dollar Crisis
 ---
 
 ## Introducción

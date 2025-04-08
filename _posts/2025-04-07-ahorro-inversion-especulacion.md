@@ -4,11 +4,10 @@ title:  "Ahorro, inversión y especulación: diferencias y conceptos clave"
 date:   2025-04-07 00:00:00 +0000
 categories: [finanzas, conceptos]
 tags: [ahorro, inversión, especulación, riesgo, liquidez, rentabilidad]
+image:
+  path: assets/img/posts/triangulo-inversion.png
+  alt: Triángulo de inversión
 ---
-
-![Triángulo de inversión](assets/img/posts/triangulo-inversion.png)
-*Imagen del triángulo de inversión*
-
 
 ## Ahorro, inversión y especulación: ¿en qué se diferencian?
 

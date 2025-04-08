@@ -4,11 +4,9 @@ title:  "Los Acuerdos de Bretton Woods"
 date:   2025-04-05 10:00:00 +0000
 categories: [economía, historia monetaria]
 tags: [bretton woods, fmi, banco mundial, patrón oro, sistema monetario]
----
-
-![Reunión internacional en Bretton Woods, 1944](assets/img/posts/bretton-woods-header.png)
-*Imagen referencial de la conferencia de Bretton Woods, 1944.*
-
+image:
+  path: assets/img/posts/bretton-woods-header.png
+  alt: Reunión internacional en Bretton Woods, 1944
 ---
 
 ## Los Acuerdos

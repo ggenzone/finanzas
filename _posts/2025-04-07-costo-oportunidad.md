@@ -4,6 +4,9 @@ title:  "¿Qué es el costo de oportunidad?"
 date:   2025-04-07 00:00:00 +0000
 categories: [finanzas, conceptos]
 tags: [microeconomía, decisiones, finanzas personales, costo de oportunidad]
+image:
+  path: assets/img/posts/costo-oportunidad.jpg
+  alt: Costo de oportunidad
 ---
 
 ## ¿Qué es el costo de oportunidad?

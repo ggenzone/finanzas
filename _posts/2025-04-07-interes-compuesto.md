@@ -4,6 +4,9 @@ title:  "¿Qué es el interés compuesto?"
 date:   2025-04-07 00:00:00 +0000
 categories: [finanzas, conceptos]
 tags: [interés compuesto, capitalización, finanzas personales, ahorro]
+image:
+  path: assets/img/posts/interes-compuesto.jpeg
+  alt: Interés compuesto
 ---
 
 ## ¿Qué es el interés compuesto?

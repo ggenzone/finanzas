@@ -5,6 +5,9 @@ date:   2025-04-07 00:00:00 +0000
 categories: [finanzas, conceptos]
 tags: [rentabilidad, ROI, ROE, ROA, CAGR, indicadores financieros]
 math: true
+image:
+  path: assets/img/posts/medidores-rentabilidad.jpg
+  alt: Medidores de rentabilidad
 ---
 
 
