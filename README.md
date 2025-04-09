@@ -1,9 +1,61 @@
-**Sobre este blog**
+# Perspectiva 
 
-Este blog es un espacio personal donde recopilo y organizo información relacionada con finanzas, economía y temas afines. Su propósito principal es funcionar como un cuaderno de notas digital, donde resumo y estructuro lo que voy aprendiendo de distintas fuentes, tanto tradicionales como digitales.
+> 📚 **Este blog funciona como un cuaderno de notas personal.**
 
-No considero el contenido como propio, ya que muchas de las ideas y conceptos aquí presentados provienen de libros, artículos, cursos, videos, y otras publicaciones. En algunos casos también utilizo herramientas de inteligencia artificial para ayudar a sintetizar, resumir o reformular los conceptos que estoy tratando de comprender.
+Aquí recopilo y organizo ideas, conceptos y explicaciones relacionadas con **finanzas, economía y temas afines**. La intención no es enseñar, sino **aprender en voz alta**, registrando lo que estudio, leo o escucho.
 
-Este sitio no tiene fines comerciales ni académicos, simplemente me ayuda a ordenar mi propio proceso de aprendizaje, y tal vez pueda ser útil a otras personas interesadas en estos temas.
+---
 
-El blog está construido con [Jekyll](https://jekyllrb.com/) y utiliza el excelente template [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) desarrollado por [Cotes Chung](https://github.com/cotes2020).
+## 🎯 Propósito
+
+El objetivo principal de este sitio es tener un espacio donde pueda:
+
+- Resumir conceptos clave de forma estructurada.
+- Conectar ideas que encuentro en libros, artículos, videos o cursos.
+- Volver a consultar fácilmente contenidos que me resultaron útiles.
+- Explorar temas financieros desde una mirada personal y reflexiva.
+
+> 🧠 *Este blog no busca autoridad académica. Es simplemente una herramienta de aprendizaje continuo.*
+
+---
+
+## 🤖 Herramientas utilizadas
+
+A veces uso herramientas de **inteligencia artificial** (como ChatGPT) para ayudar a sintetizar, resumir o clarificar ideas. Estas tecnologías me permiten acelerar el proceso de comprensión, pero siempre intento contrastar la información con otras fuentes.
+
+---
+
+## 📌 Nota sobre autoría
+
+Este sitio **no reclama originalidad en los conceptos**. Gran parte de lo compartido surge de lecturas, cursos, papers y otros recursos preexistentes.
+
+<details>
+<summary>📖 Fuentes habituales</summary>
+
+- Libros clásicos y contemporáneos sobre economía y finanzas
+- Artículos especializados
+- Charlas, videos y entrevistas
+- Cursos en línea y contenido académico
+- Herramientas de IA y resúmenes automatizados
+
+</details>
+
+---
+
+## 💬 ¿Por qué hacerlo público?
+
+Aunque el blog es ante todo para mi uso personal, pienso que compartirlo puede ser útil para otras personas que están en la misma búsqueda. Tal vez encuentres algo que te sirva, te oriente o te despierte curiosidad.
+
+> ✍️ *Aprender es más interesante cuando se comparte.*
+
+---
+
+## 🧱 Tecnologías
+
+Este blog está construido con:
+
+- **Jekyll**
+- [Tema Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+- Markdown ✍️
+
+---
