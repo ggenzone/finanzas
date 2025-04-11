@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Evaluación de proyectos: ¿qué son la TIR y el VAN?"
-date:   2025-04-08 00:00:00 +0000
+date:   2025-04-09 00:00:00 +0000
 categories: [finanzas, conceptos]
 tags: [TIR, VAN, NPV, IRR, flujo de fondos, decisiones de inversión]
 math: true
