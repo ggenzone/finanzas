@@ -64,13 +64,4 @@ Esta prioridad influye en el riesgo y el rendimiento esperado: a mayor prioridad
 
 ---
 
-## Prompt para imagen IA
-
-> Una ilustración conceptual sobre renta fija y bonos. Muestra bonos o documentos de deuda, escalas de prioridad de pago (senior/subordinado/acciones), gráficos de TIR y diferentes emisores (gobiernos, empresas, instituciones). El estilo debe ser profesional, educativo y sin texto, ideal para acompañar un artículo sobre inversión en renta fija.
-
-**Versión en inglés:**
-> A conceptual illustration about fixed income and bonds. Show bonds or debt certificates, payment priority ladders (senior/subordinated/equity), yield charts, and different issuers (governments, companies, institutions). Use a professional, educational style with no text, perfect for illustrating an article about fixed income investing.
-
----
-
 > 💬 La renta fija ofrece seguridad y previsibilidad, pero también implica riesgos y requiere análisis. Entender la prioridad de pago y la TIR es clave para invertir con criterio.
