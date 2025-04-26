@@ -5,7 +5,7 @@ date: 2025-04-15 02:00:00 +0000
 categories: [economía, instituciones]
 tags: [Banco Mundial, Bretton Woods, desarrollo económico]
 image:
-  path: assets/img/posts/banco-mundial.webp
+  path: assets/img/posts/banco-mundial.png
   alt: Banco Mundial
 ---
 
